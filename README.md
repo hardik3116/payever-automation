@@ -2,10 +2,6 @@
 
 This repository contains a Selenium test suite written in JavaScript using the `selenium-webdriver`, mocha and chai library. The test suite includes test cases for the registration process on two different pages, "Fashion" and "Santander," and verifies the presence of certain apps on the dashboard page.
 
-## Results (Video)
-
-[![Alt text](https://img.youtube.com/vi/Yu4VIui2vCg/0.jpg)](https://www.youtube.com/watch?v=Yu4VIui2vCg)
-
 ## ⚙️ Prerequisites
 
 - Node.js
@@ -16,7 +12,7 @@ This repository contains a Selenium test suite written in JavaScript using the `
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sauravhathi/payever-automation-quality-assurance.git
+   git clone https://github.com/hardik3116/payever-automation.git
    ```
 
 2. Install the dependencies:
